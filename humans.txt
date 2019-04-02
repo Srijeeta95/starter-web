@@ -5,7 +5,6 @@
 
     <name> -- Srijeeta Santra -- <twitter>
 emai: santrasrijeeta@gmail.com
-WP: Software developer
 
 # THANKS
 
