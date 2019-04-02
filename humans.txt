@@ -13,4 +13,5 @@ emai: santrasrijeeta@gmail.com
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr. goolgle cloud, AMI PAGOL, TUMI CHAGOL
+
+    jQuery, Modernizr,AWS,GOOGLE CLOUD, SUBLIME
