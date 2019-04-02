@@ -13,4 +13,4 @@ emai: santrasrijeeta@gmail.com
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr,AWS,GOOGLE CLOUD, SUBLIME
