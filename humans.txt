@@ -7,7 +7,7 @@
 emai: santrasrijeeta@gmail.com
 
 # THANKS
-
+    Thanks toall my teachers
     <name>
 
 # TECHNOLOGY COLOPHON
